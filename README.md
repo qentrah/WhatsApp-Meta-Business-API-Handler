@@ -1063,3 +1063,7 @@ MIT License - Copyright (c) 2023 Up-to-code
 ---
 
 **Made with ❤️ for the WhatsApp Business API community**
+
+## Project links
+
+[Source](https://github.com/qentrah/WhatsApp-Meta-Business-API-Handler) · [Issues](https://github.com/qentrah/WhatsApp-Meta-Business-API-Handler/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
